@@ -1,6 +1,6 @@
 ## Welcome to Fantasy Politica!
 
-You have the opportunity to create brackets of politicians and earn points (and $$!) based on their actions. This is intended to be similar to other fantasy sports. Your bracket will consist of 13 politicians of your choice, 8 of which are active and 5 of which are benched. Every week, you can decide who you'd like to keep active and who you'd like to bench, as well as trade politicians with other players in your league.
+You have the opportunity to create brackets of politicians and earn points (and $$!) based on their actions. This is intended to be similar to other fantasy sports. Your bracket will consist of 13 politicians of your choice, 8 of which are active and 5 of which are benched. These politicians must be US Senators, US Congressmen, or US Congresswomen. Every week, you can decide who you'd like to keep active and who you'd like to bench, as well as trade politicians with other players in your league.
 
 
 ### Point System
