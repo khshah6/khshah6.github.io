@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to Fantasy Politica!
 
-You can use the [editor on GitHub](https://github.com/khshah6/khshah6.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You have the opportunity to create brackets of politicians and earn points (and $$!) based on their actions. This is intended to be similar to other fantasy sports. Your bracket will consist of 13 politicians of your choice, 8 of which are active and 5 of which are benched. Every week, you can decide who you'd like to keep active and who you'd like to bench, as well as trade politicians with other players in your league.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Point System
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Re-election +100
+Polls/Approval Ratings +10/points moved up and -10/points moved down
+Getting mentioned by NYT +100
+Voting yes on something that passes +20
+Speaking in pro of something that passes +50
+Scandals +50-500 (depending on scandal)
+Filibusters +100
+Authoring/Co-authoring a bill that passes +150
+Authoring/Co-authoring a bill that does not pass +50
+Joining/getting placed on a committee +50
+Moving up in ranking on committee +50
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/khshah6/khshah6.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Have feedback or want to learn more? Check out [documentation](https://github.com/khshah6/khshah6.github.io) or contact me at kanch121@gmail.com!
